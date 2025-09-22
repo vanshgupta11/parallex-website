@@ -1,1 +1,2 @@
-live link - tranquil-lokum-43a2f3.netlify.app
+live link - https://tranquil-lokum-43a2f3.netlify.app/
+
